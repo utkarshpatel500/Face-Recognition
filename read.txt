@@ -1,0 +1,1 @@
+A face recognition system is built for matching human faces with a digital image. Ultimately what a computer recognizes is pixel values ranging from 0-255.
